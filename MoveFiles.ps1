@@ -1,5 +1,5 @@
 #this script will move files from a source folder to a destination folder and then ask the user if they would like to see the contents of the destination folder
-
+#this is just a comment to test out git commands
 #clears the screen
 Clear-Host
 #variables which will be used in the function
